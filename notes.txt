@@ -2,3 +2,5 @@ Day 1: Git is like a time machine for files.
 GitHub is where those snapshots live in the cloud.
 
 adding another line for testing/learning.
+
+Updated from GitHub directly!
